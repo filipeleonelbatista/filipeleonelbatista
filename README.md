@@ -2,10 +2,9 @@
 
 # Olá, sou o Filipe Batista. 👋
 
-Amo muito minha familia.<br/> 
-Gosto muito de games especificamente [COD](http://callofduty.com/).<br/> 
+Amo muito minha família.<br/> 
 Tenho uma grande realização no desenvolvimento especialmente quando consigo tirar idéias do papel e tornar em realidade. <br/> 
-Sou desenvolvedor PHP, Python for web e em busca do fullstack com React :computer:
+Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle SQL e SQLite e em busca do fullstack com React :computer:
 <br/> <br/> 
 :hospital: &nbsp; Trabalho na empresa [**Salux - Informatização em saúde**](https://www.salux.com.br/)
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end usando React
