@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/modernfunkboss/modernfunkboss/blob/master/banner.png">
+<img width="auto" src="https://github.com/modernfunkboss/modernfunkboss/blob/master/5qi38njir9vsm46ync2qjvrrs.svg">
 
 # Olá, sou o Filipe Batista. 👋
 
