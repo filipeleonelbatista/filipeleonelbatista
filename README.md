@@ -51,13 +51,13 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
 <p align="center">
   <a href="http://filipeleonelbatista.github.io/">
     <img alt="Meu site" width="22px" src="./assets/worldwide.svg" />
-  </a>
+  </a>&emsp;
   <a href="https://www.linkedin.com/in/filipelbatista/">
     <img alt="LinkedIn" width="22px" src="./assets/052-linkedin.svg" />
-  </a>
+  </a>&emsp;
   <a href="mailto:filipe.x2016@gmail.com">
     <img alt="Email" width="22px" src="./assets/044-instagram.svg" />
-  </a>
+  </a>&emsp;
   <a href="https://instagram.com/filipegaucho22">
     <img alt="Instagram" width="22px" src="./assets/gmail.svg" />
   </a>
