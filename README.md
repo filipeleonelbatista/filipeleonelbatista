@@ -66,10 +66,12 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
 
 <br>
 
-### Ultimas postagens
+### 🚨 Ultimas postagens
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
-### Metas para 2021
+### 📝 Metas para 2021
 
 - [x] Meta 1
 - [ ] Meta 2
