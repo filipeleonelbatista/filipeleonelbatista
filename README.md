@@ -4,7 +4,7 @@
 
 Amo muito minha família.<br/> 
 Tenho uma grande realização no desenvolvimento especialmente quando consigo tirar idéias do papel e tornar em realidade. <br/> 
-Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle SQL e SQLite e em busca do fullstack com React :computer:
+Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle SQL e SQLite e em busca do fullstack com React 💻
 <br/> <br/> 
 🏥 &nbsp; Trabalho na empresa [**Salux - Informatização em saúde**](https://www.salux.com.br/)
 <br/> 💜 &nbsp; Buscando colaborar com projetos em Front-end e Back-end usando React
@@ -12,38 +12,42 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
 <br/> 💻 &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
 <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games como COD MW WZ(atualmente) e Minecraft, seriados no Netflix e videos no Youtube.
 
-
-### Minha Stack
-
-[<img align="left" alt="JavaScript" width="26px" src="./assets/javascript.svg" />]()
-[<img align="left" alt="React" width="26px" src="./assets/reactjs.svg" />]()
-[<img align="left" alt="TypeScript" width="26px" src="./assets/typescript.svg" />]()
-[<img align="left" alt="Node.js" width="26px" src="./assets/node.svg" />]()
+<h3 align="center" >Minha Stack</h3>
+<p align="center">
+  <img alt="JavaScript" width="26px" src="./assets/javascript.svg" />
+  <img alt="React" width="26px" src="./assets/reactjs.svg" />
+  <img alt="TypeScript" width="26px" src="./assets/typescript.svg" />
+  <img alt="Node.js" width="26px" src="./assets/node.svg" />
+</p>
 
 <br>
 
-### Minhas linguagens e ferramentas
+<h3 align="center" >Minhas linguagens e ferramentas</h3>
+<p align="center">
+  <img alt="HTML5" width="26px" src="./assets/html5.svg" />
+  <img alt="CSS3" width="26px" src="./assets/css3.svg" />
+  <img alt="Bootstrap" width="26px" src="./assets/bootstrap.svg" />
+  <img alt="JavaScript" width="26px" src="./assets/javascript.svg" />
+  <img alt="React" width="26px" src="./assets/reactjs.svg" />
+  <img alt="TypeScript" width="26px" src="./assets/typescript.svg" />
+  <img alt="Node.js" width="26px" src="./assets/node.svg" />
+  <img alt="PHP" width="26px" src="./assets/php.svg" />
+  <img alt="Python" width="26px" src="./assets/python.svg" />
+  <img alt="Flask" width="26px" src="./assets/flask.svg" />
+  <img alt="C" width="26px" src="./assets/c.svg" />
+  <img alt="C#" width="26px" src="./assets/c-sharp.svg" />
+  <img alt="SQL" width="26px" src="./assets/oracle.svg" />
+  <img alt="MySQL" width="26px" src="./assets/mysql.svg" />
+  <img alt="PowerBuilder11.5" width="26px" src="./assets/powerbuilder.svg" />
+</p>
 
-[<img align="left" alt="HTML5" width="26px" src="./assets/html5.svg" />]()
-[<img align="left" alt="CSS3" width="26px" src="./assets/css3.svg" />]()
-[<img align="left" alt="Bootstrap" width="26px" src="./assets/bootstrap.svg" />]()
-[<img align="left" alt="JavaScript" width="26px" src="./assets/javascript.svg" />]()
-[<img align="left" alt="React" width="26px" src="./assets/reactjs.svg" />]()
-[<img align="left" alt="TypeScript" width="26px" src="./assets/typescript.svg" />]()
-[<img align="left" alt="Node.js" width="26px" src="./assets/node.svg" />]()
-[<img align="left" alt="PHP" width="26px" src="./assets/php.svg" />]()
-[<img align="left" alt="Python" width="26px" src="./assets/python.svg" />]()
-[<img align="left" alt="Flask" width="26px" src="./assets/flask.svg" />]()
-[<img align="left" alt="C" width="26px" src="./assets/c.svg" />]()
-[<img align="left" alt="C#" width="26px" src="./assets/c-sharp.svg" />]()
-[<img align="left" alt="SQL" width="26px" src="./assets/oracle.svg" />]()
-[<img align="left" alt="MySQL" width="26px" src="./assets/mysql.svg" />]()
+<br>
 
-<br><hr>
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+<p align="center">
+  <img alt="VsCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="GitHub" width="26px" src="./assets/032-github.svg" />
+  <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</p>
 
 <br>
 
