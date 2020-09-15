@@ -68,6 +68,8 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
 
 ### 🚨 Ultimas postagens
 <!-- BLOG-POST-LIST:START -->
+- [Primeiro post oficial](https://filipeleonelbatista.github.io/posts/primeiro-post-oficial)
+- [Iniciando as postagens](https://filipeleonelbatista.github.io/posts/model)
 <!-- BLOG-POST-LIST:END -->
 
 
