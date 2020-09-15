@@ -23,7 +23,12 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
 [<img align="left" alt="email | Email" width="22px" src="./assets/044-instagram.svg" />](mailto:filipe.x2016@gmail.com)
 [<img align="left" alt="instagram | Instagram" width="22px" src="./assets/gmail.svg" />](https://instagram.com/filipegaucho22)
 
+<br><br>
+
 ### Ultimas postagens
 
 
 ### Metas para 2021
+
+- [x] Meta 1
+- [ ] Meta 2
