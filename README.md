@@ -2,6 +2,21 @@
 
 # Olá, sou o Filipe Batista. 👋
 
+<p align="left">
+  <a href="http://filipeleonelbatista.github.io/">
+    <img alt="Meu site" width="22px" src="./assets/worldwide.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/filipelbatista/">
+    <img alt="LinkedIn" width="22px" src="./assets/052-linkedin.svg" />
+  </a>&ensp;
+  <a href="mailto:filipe.x2016@gmail.com">
+    <img alt="Email" width="22px" src="./assets/044-instagram.svg" />
+  </a>&ensp;
+  <a href="https://instagram.com/filipegaucho22">
+    <img alt="Instagram" width="22px" src="./assets/gmail.svg" />
+  </a>
+</p>
+
 Amo muito minha família.<br/> 
 Tenho uma grande realização no desenvolvimento especialmente quando consigo tirar idéias do papel e tornar em realidade. <br/> 
 Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle SQL e SQLite e em busca do fullstack com React 💻
@@ -20,8 +35,6 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
   <img alt="Node.js" width="26px" src="./assets/node.svg" />
 </p>
 
-<br>
-
 <h3 align="center" >Minhas linguagens e ferramentas</h3>
 <p align="center">
   <img alt="HTML5" width="26px" src="./assets/html5.svg" />
@@ -38,15 +51,29 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
   &ensp;<img alt="C#" width="26px" src="./assets/c-sharp.svg" />
   &ensp;<img alt="SQL" width="26px" src="./assets/oracle.svg" />
   &ensp;<img alt="MySQL" width="26px" src="./assets/mysql.svg" />
-  &ensp;<img alt="PowerBuilder11.5" width="26px" src="./assets/powerbuilder.svg" />
+  &ensp;<img alt="PowerBuilder11.5" width="26px" src="./assets/pb-logo.svg" />
 </p>
 <p align="center">
-  <img alt="VsCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="VsCode" width="26px" src="./assets/visual-studio-code.png" />
+  &emsp;<img alt="VisualStudio" width="26px" src="./assets/vs.png" />
+  &ensp;<img alt="PowerBuilder11.5" width="26px" src="./assets/pb-logo.svg" />
+  &ensp;<img alt="SQL Developer" width="26px" src="./assets/sql-developer.png" />
+  &ensp;<img alt="Insomnia" width="26px" src="./assets/insomnia.png" />
+  &ensp;<img alt="Figma" width="26px" src="./assets/figma.png" />
   &emsp;<img alt="GitHub" width="26px" src="./assets/032-github.svg" />
-  &emsp;<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  &emsp;<img alt="Terminal" width="26px" src="./assets/terminal.png" />
 </p>
 
 <br>
+
+### Ultimas postagens
+
+
+### Metas para 2021
+
+- [x] Meta 1
+- [ ] Meta 2
+
 
 <h3 align="center" >Vamos nos conectar 😉</h3>
 <p align="center">
@@ -63,13 +90,3 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
     <img alt="Instagram" width="22px" src="./assets/gmail.svg" />
   </a>
 </p>
-
-<br>
-
-### Ultimas postagens
-
-
-### Metas para 2021
-
-- [x] Meta 1
-- [ ] Meta 2
