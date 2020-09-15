@@ -1,0 +1,15 @@
+name: Ultimas postagens
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispach:
+
+jobs:
+  update-readme-with-blog:
+    name: Atualizar com as ultimas postagens o meu readme
+    runs-on: ubuntu-latest
+    steps:
+      -uses: actions/checkount@v2      
+      -uses: gautamkrishnar/blog-post-workflow@master
+       with:
+          feed_list: "https://filipeleonelbatista.github.io/feed.xml"
