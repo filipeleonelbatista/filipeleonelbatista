@@ -20,6 +20,8 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
 [<img align="left" alt="TypeScript" width="26px" src="./assets/typescript.svg" />]()
 [<img align="left" alt="Node.js" width="26px" src="./assets/node.svg" />]()
 
+<br>
+
 ### Minhas linguagens e ferramentas
 
 [<img align="left" alt="HTML5" width="26px" src="./assets/html5.svg" />]()
@@ -48,16 +50,16 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
 <h3 align="center" >Vamos nos conectar 😉</h3>
 <p align="center">
   <a href="http://filipeleonelbatista.github.io/">
-    <img align="left" alt="Meu site" width="22px" src="./assets/worldwide.svg" />
+    <img alt="Meu site" width="22px" src="./assets/worldwide.svg" />
   </a>
   <a href="https://www.linkedin.com/in/filipelbatista/">
-    <img align="left" alt="LinkedIn" width="22px" src="./assets/052-linkedin.svg" />
+    <img alt="LinkedIn" width="22px" src="./assets/052-linkedin.svg" />
   </a>
   <a href="mailto:filipe.x2016@gmail.com">
-    <img align="left" alt="Email" width="22px" src="./assets/044-instagram.svg" />
+    <img alt="Email" width="22px" src="./assets/044-instagram.svg" />
   </a>
   <a href="https://instagram.com/filipegaucho22">
-    <img align="left" alt="Instagram" width="22px" src="./assets/gmail.svg" />
+    <img alt="Instagram" width="22px" src="./assets/gmail.svg" />
   </a>
 </p>
 
