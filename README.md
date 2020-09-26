@@ -36,35 +36,63 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
 </p>
 
 <h3 align="center" >Minhas linguagens e ferramentas</h3>
-<p align="center">
-  <img alt="HTML5" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/html5.svg" />
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Tenho Experiência </th>
+      <th>Estou estudando</th>
+      <th>Tenho interesse</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p align="center"><img alt="HTML5" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/html5.svg" />
   &ensp;<img alt="CSS3" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/css3.svg" />
   &ensp;<img alt="Bootstrap" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/bootstrap.svg" />
-  &ensp;<img alt="JavaScript" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/javascript.svg" />
-  &ensp;<img alt="React" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/reactjs.svg" />
-  &ensp;<img alt="TypeScript" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/typescript.svg" />
-  &ensp;<img alt="Node.js" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/node.svg" />
-  &ensp;<img alt="PHP" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/php.svg" />
+  &ensp;<img alt="JavaScript" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/javascript.svg" /> &ensp;<img alt="PHP" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/php.svg" />
   &ensp;<img alt="Python" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/python.svg" />
   &ensp;<img alt="Flask" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/flask.svg" />
   &ensp;<img alt="C" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/c.svg" />
   &ensp;<img alt="C#" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/c-sharp.svg" />
   &ensp;<img alt="SQL" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/oracle.svg" />
   &ensp;<img alt="MySQL" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/mysql.svg" />
-  &ensp;<img alt="PowerBuilder11.5" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/pb-logo.svg" />
-</p>
-<p align="center">
-  <img alt="VsCode" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/visual-studio-code.png" />
-  &emsp;<img alt="VisualStudio" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/vs.png" />
-  &ensp;<img alt="PowerBuilder11.5" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/pb-logo.svg" />
-  &ensp;<img alt="SQL Developer" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/sql-developer.png" />
-  &ensp;<img alt="Insomnia" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/insomnia.png" />
-  &ensp;<img alt="Figma" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/figma.png" />
-  &emsp;<img alt="GitHub" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/032-github.svg" />
-  &emsp;<img alt="Terminal" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/terminal.png" />
-</p>
+  &ensp;<img alt="PowerBuilder11.5" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/pb-logo.svg" /></p>
+      </td>
+      <td>
+        <p align="center"> 
+          <img alt="React" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/reactjs.svg" />
+          &ensp;<img alt="TypeScript" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/typescript.svg" />
+          &ensp;<img alt="Node.js" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/node.svg" />
+        </p>
+      </td>
+      <td>
+      </td>       
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img alt="VsCode" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/visual-studio-code.png" />
+           &ensp;<img alt="SQL Developer" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/sql-developer.png" />
+          &ensp;<img alt="Insomnia" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/insomnia.png" />
+        </p>
+      </td> 
+      <td>
+        <p align="center">
+          <img alt="VisualStudio" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/vs.png" />
+          &ensp;<img alt="PowerBuilder11.5" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/pb-logo.svg" />
+          &ensp;<img alt="Figma" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/figma.png" />
+          &emsp;<img alt="GitHub" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/032-github.svg" />
+          &emsp;<img alt="Terminal" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/terminal.png" />
+        </p>
+      </td> 
+      <td>
+      </td> 
+    </tr>
+  </tbody>
+</table>
 
-<br>
 
 ### 🚨 Ultimas postagens
 <!-- BLOG-POST-LIST:START -->
