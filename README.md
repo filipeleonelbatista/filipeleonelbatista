@@ -37,6 +37,7 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
 
 <h3 align="center" >Minhas linguagens e ferramentas</h3>
 
+
 <table width="100%">
   <thead>
     <tr>
@@ -92,7 +93,6 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
     </tr>
   </tbody>
 </table>
-
 
 ### 🚨 Ultimas postagens
 <!-- BLOG-POST-LIST:START -->
