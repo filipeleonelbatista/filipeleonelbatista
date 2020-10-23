@@ -104,8 +104,8 @@ Sou desenvolvedor PowerBuilder 11.5, PHP, Python for web, um pouquinho de Oracle
 
 ### 📝 Metas para 2021
 
-- [x] Meta 1
-- [ ] Meta 2
+- [ ] Iniciar o estudo do meu negócio digital
+- [ ] Iniciar o desenvolvimento
 
 
 <h3 align="center" >Vamos nos conectar 😉</h3>
