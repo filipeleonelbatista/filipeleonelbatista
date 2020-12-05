@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/5qi38njir9vsm46ync2qjvrrs.svg">
+<img width="auto" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/cover.png">
 
 # Olá, sou o Filipe Batista. 👋
 
