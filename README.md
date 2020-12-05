@@ -31,7 +31,6 @@ Sou desenvolvedor PHP, Python for web, um pouquinho de Oracle SQL, SQLite, MySql
 <p align="center">
   <img alt="JavaScript" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/javascript.svg" />
   <img alt="React" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/reactjs.svg" />
-  <img alt="TypeScript" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/typescript.svg" />
   <img alt="Node.js" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/node.svg" />
 </p>
 
