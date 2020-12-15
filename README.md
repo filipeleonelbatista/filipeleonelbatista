@@ -14,6 +14,12 @@
   </a>&ensp;
   <a href="https://instagram.com/filipeleonelbatista">
     <img alt="Instagram" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/044-instagram.svg" />
+  </a>&ensp;
+  <a href="https://www.gitshowcase.com/filipeleonelbatista">
+    <img alt="Meu site" width="22px" src="https://www.gitshowcase.com/assets/logo-330178d2ecfd95e13b846dadfa8652d29f28daec66591dfa78e500457c93814a.png" />
+  </a>&ensp;
+  <a href="https://linktr.ee/filipeleonelbatista">
+    <img alt="Meu site" width="22px" src="https://linktr.ee/static/favicon.ico" />
   </a>
 </p>
 
