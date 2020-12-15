@@ -15,6 +15,9 @@
   <a href="https://instagram.com/filipeleonelbatista">
     <img alt="Instagram" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/044-instagram.svg" />
   </a>&ensp;
+  <a href="https://twitter.com/filipegaucho27">
+    <img alt="Instagram" width="22px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" />
+  </a>&ensp;
   <a href="https://www.gitshowcase.com/filipeleonelbatista">
     <img alt="Meu site" width="22px" src="https://www.gitshowcase.com/assets/logo-330178d2ecfd95e13b846dadfa8652d29f28daec66591dfa78e500457c93814a.png" />
   </a>&ensp;
