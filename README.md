@@ -1,6 +1,6 @@
 <img width="auto" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/cover.png">
 
-# Olá, sou o Filipe Batista. 👋
+# Olá, sou o Filipe Batista. <img alt="Meu site" width="48px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/Hi.gif" />
 
 <p align="left">
   <a href="http://filipeleonelbatista.github.io/">
