@@ -46,6 +46,7 @@ Sou desenvolvedor PHP, Python for web, um pouquinho de Oracle SQL, SQLite, MySql
   <img alt="Node.js" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/node.svg" />
 </p>
 
+<!--
 <h3 align="center" >Minhas linguagens e ferramentas</h3>
 
 
@@ -104,7 +105,7 @@ Sou desenvolvedor PHP, Python for web, um pouquinho de Oracle SQL, SQLite, MySql
     </tr>
   </tbody>
 </table>
-
+-->
 ---
 
 <h3 align="center" >Vamos nos conectar 😉</h3>
