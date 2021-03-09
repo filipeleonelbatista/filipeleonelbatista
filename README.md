@@ -105,19 +105,7 @@ Sou desenvolvedor PHP, Python for web, um pouquinho de Oracle SQL, SQLite, MySql
   </tbody>
 </table>
 
-### 🚨 Ultimas postagens
-<!-- BLOG-POST-LIST:START -->
-- [Utilizando git hub actions para atualizar o readme do perfil](https://filipeleonelbatista.github.io/posts/utilizando-git-hub-actions-para-atualizar-o-readme-do-perfil)
-- [Primeiro post oficial](https://filipeleonelbatista.github.io/posts/primeiro-post-oficial)
-- [Iniciando as postagens](https://filipeleonelbatista.github.io/posts/model)
-<!-- BLOG-POST-LIST:END -->
-
-
-### 📝 Metas para 2021
-
-- [ ] Iniciar o estudo do meu negócio digital
-- [ ] Iniciar o desenvolvimento
-
+---
 
 <h3 align="center" >Vamos nos conectar 😉</h3>
 <p align="center">
