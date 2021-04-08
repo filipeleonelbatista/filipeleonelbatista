@@ -33,7 +33,7 @@ Amo muito minha família.<br/>
 Tenho uma grande realização no desenvolvimento especialmente quando consigo tirar idéias do papel e tornar em realidade. <br/> 
 Sou desenvolvedor PHP, Python for web, um pouquinho de Oracle SQL, SQLite, MySql e Postgres e Fullstack com ReactJS ReactNative e NodeJS 💻
 <br/> <br/> 
-🏥 &nbsp; Trabalho na empresa [**Salux - Informatização em saúde**](https://www.salux.com.br/)
+🏥 &nbsp; Buscando oportunidades de trabalho na area de desenvolvimento Fullstack e Mobile.
 <br/> 💜 &nbsp; Buscando colaborar com projetos em Front-end e Back-end usando React
 <br/> 😊 &nbsp; Posso te ajudar com PHP e Python, ReactJS, Node.js, React Native.
 <br/> 💻 &nbsp; Minha stack: ReactJS, Node.js, React Native
