@@ -115,7 +115,7 @@ Sou desenvolvedor PHP, Python for web, um pouquinho de Oracle SQL, SQLite, MySql
   </a>&ensp;
   <a href="https://filipedev.ga">
     <img alt="Meu site" width="22px" src="https://filipedev.ga/logoo.png" />
-  </a> 
+  </a>&ensp;
   <a href="https://www.linkedin.com/in/filipeleonelbatista/">
     <img alt="LinkedIn" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/052-linkedin.svg" />
   </a>&ensp;
