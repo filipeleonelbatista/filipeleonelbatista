@@ -5,17 +5,11 @@
 Amo muito minha família.<br/> 
 Tenho uma grande realização no desenvolvimento especialmente quando consigo tirar idéias do papel e tornar em realidade. <br/> 
 Sou desenvolvedor Fullstack com ReactJS ReactNative e NodeJS 💻 <br />
-<br/> 💻 &nbsp; Minha stack: ReactJS, Node.js, React Native
-<br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games como Call Of Duty e Minecraft, seriados no Netflix e videos no Youtube.
-
-<h3 align="center" >Minha Stack</h3>
-<p align="center">
+<br/> 💻 &nbsp; Minha stack: ReactJS, Node.js, React Native 
   <img alt="JavaScript" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/javascript.svg" />
-  <img alt="React" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/reactjs.svg" />
   <img alt="Node.js" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/node.svg" />
-</p>
-
----
+  <img alt="React" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/reactjs.svg" />
+<br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games como Call Of Duty e Minecraft, seriados no Netflix e videos no Youtube.
 
 <h3 align="center" >Vamos nos conectar 😉</h3>
 <p align="center">
