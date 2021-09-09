@@ -1,5 +1,3 @@
-<img width="100%" src="https://raw.githubusercontent.com/filipeleonelbatista/filipeleonelbatista/master/assets/cover-image%20(1).png">
-
 # Olá, sou o Filipe Batista. <img alt="Meu site" width="48px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/Hi.gif" />
 
 Amo muito minha família.<br/> 
