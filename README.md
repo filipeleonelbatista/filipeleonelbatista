@@ -5,13 +5,15 @@ Tenho uma grande realização no desenvolvimento especialmente quando consigo ti
 Sou desenvolvedor Fullstack com ReactJS ReactNative e NodeJS 💻 <br />
 <br/> 
 
-🏥 Trabalho na empresa **[Interprocess - Tecnologia da informação](https://www.interprocess.com.br/)**
-🏥 Forneço serviços para  à **[Moben](https://moben.com.br)**
-💻 &nbsp; Minha stack: ReactJS, Node.js, React Native 
+💻 Minha stack: ReactJS, Node.js, React Native 
   <img alt="JavaScript" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/javascript.svg" />
   <img alt="Node.js" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/node.svg" />
   <img alt="React" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/reactjs.svg" />
-<br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games como Call Of Duty e Minecraft, seriados no Netflix e videos no Youtube.
+<br/>
+🏥 Trabalho na empresa **[Interprocess - Tecnologia da informação](https://www.interprocess.com.br/)** <br/> 
+🏥 Forneço serviços para  à **[Moben](https://moben.com.br)** <br/>  
+💬 Sobre mim: Curto tecnologias, games como Call Of Duty e Minecraft, seriados no Netflix e videos no Youtube.<br/> 
+🔗 [Meus links para contato](https://filipedev.ga) <br/> 
 
 <h3 align="center" >Vamos nos conectar 😉</h3>
 <p align="center">
