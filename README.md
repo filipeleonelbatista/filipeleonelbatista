@@ -10,7 +10,6 @@ Sou desenvolvedor Fullstack com ReactJS ReactNative e NodeJS 💻 <br />
   <img alt="Node.js" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/node.svg" />
   <img alt="React" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/reactjs.svg" />
 <br/>
-🏥 Trabalho na empresa **[Interprocess - Tecnologia da informação](https://www.interprocess.com.br/)** <br/> 
 🏥 Forneço serviços para  à **[Moben](https://moben.com.br)** <br/>  
 💬 Sobre mim: Curto tecnologias, games como Call Of Duty e Minecraft, seriados no Netflix e videos no Youtube.<br/> 
 🔗 [Meus links para contato](https://filipedev.ga) <br/> 
