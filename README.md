@@ -25,4 +25,7 @@ Sou desenvolvedor Fullstack com ReactJS ReactNative e NodeJS 💻 <br />
   <a href="https://instagram.com/filipeleonelbatista">
     <img alt="Instagram" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/044-instagram.svg" />
   </a>
+  <a href="https://desenvolvedordeaplicativos.ga/">
+    <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
+  </a>&ensp;
 </p>
