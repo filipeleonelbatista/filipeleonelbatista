@@ -12,7 +12,7 @@ Sou desenvolvedor Fullstack com ReactJS ReactNative e NodeJS 💻 <br />
 <br/>
 🏥 Forneço serviços para  à **[Moben](https://moben.com.br)** <br/>  
 💬 Sobre mim: Curto tecnologias, games como Call Of Duty e Minecraft, seriados no Netflix e videos no Youtube.<br/> 
-🔗 [Meus links para contato](https://filipedev.ga) <br/> 
+🔗 [Meus links para contato](https://desenvolvedordeaplicativos.vercel.app/links) <br/> 
 
 <h3 align="center" >Vamos nos conectar 😉</h3>
 <p align="center">
@@ -25,7 +25,7 @@ Sou desenvolvedor Fullstack com ReactJS ReactNative e NodeJS 💻 <br />
   <a href="https://instagram.com/filipeleonelbatista">
     <img alt="Instagram" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/044-instagram.svg" />
   </a>&ensp;
-  <a href="https://desenvolvedordeaplicativos.ga/">
+  <a href="https://desenvolvedordeaplicativos.vercel.app/">
     <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
   </a>
 </p>
