@@ -1,20 +1,56 @@
-# Olá, sou o Filipe Batista. <img alt="Meu site" width="48px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/Hi.gif" />
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Amo muito minha família.<br/> 
-Tenho uma grande realização no desenvolvimento especialmente quando consigo tirar idéias do papel e tornar em realidade. <br/> 
-Sou desenvolvedor Fullstack com ReactJS ReactNative e NodeJS 💻 <br />
-<br/> 
+###
+<p align="left">My name is Filipe Batista and i'm Fullstack Developer from Rio Grande do Sul, Brazil.</p>
 
-💻 Minha stack: ReactJS, Node.js, React Native 
-  <img alt="JavaScript" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/javascript.svg" />
-  <img alt="Node.js" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/node.svg" />
-  <img alt="React" width="26px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/reactjs.svg" />
-<br/>
-🏥 Forneço serviços para  à **[Moben](https://moben.com.br)** <br/>  
-💬 Sobre mim: Curto tecnologias, games como Call Of Duty e Minecraft, seriados no Netflix e videos no Youtube.<br/> 
-🔗 [Meus links para contato](https://desenvolvedordeaplicativos.com.br/links) <br/> 
+###
+<h2 align="left">😀 About me</h2>
 
-<h3 align="center" >Vamos nos conectar 😉</h3>
+###
+<p align="left">
+- 💻 Fullstack Developer with React JS, NodeJS, Typescript.<br>
+- 🌎 In the programming world since 2019<br>
+- 🤔 I'm currently learning state changes between conponents with Redux and Context API <br>
+- 🕹️ Minecraft proplayer as a hobby 😂
+</p>
+
+###
+<img align="right" height="200" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+
+###
+<h2 align="left">👨‍💻 I code with</h2>
+
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="47" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="47" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" width="47" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="47" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="47" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" width="47" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" width="47" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" width="47" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="35" width="47" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" width="47" alt="tailwindcss logo"  />
+</div>
+
+###
+<h2 align="left">🧠 Knowledge in</h2>
+
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" width="47" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="47" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" width="47" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="47" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" width="47" alt="express logo"  />
+</div>
+
+###
+<h2 align="left">📝 Contact</h2>
+
+###
 <p align="center">
   <a href="https://desenvolvedordeaplicativos.com.br/links">
     <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
@@ -29,3 +65,10 @@ Sou desenvolvedor Fullstack com ReactJS ReactNative e NodeJS 💻 <br />
     <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
   </a>
 </p>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&username=filipeleonelbatista" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&username=filipeleonelbatista" height="150" alt="languages graph"  />
+</div>
+
