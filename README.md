@@ -52,7 +52,7 @@
 
 ###
 <p align="center">
-  <a href="https://desenvolvedordeaplicativos.com.br/links">
+  <a href="https://filipeleonelbatista.vercel.app/links">
     <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
   </a>&ensp;
   <a href="https://www.linkedin.com/in/filipeleonelbatista/">
@@ -61,7 +61,7 @@
   <a href="https://instagram.com/filipeleonelbatista">
     <img alt="Instagram" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/044-instagram.svg" />
   </a>&ensp;
-  <a href="https://desenvolvedordeaplicativos.com.br/">
+  <a href="https://filipeleonelbatista.vercel.app/">
     <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
   </a>
 </p>
