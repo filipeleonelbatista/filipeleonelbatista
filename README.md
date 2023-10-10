@@ -1,11 +1,19 @@
 <h1 align="left">Olá 👋, Como vai?</h1>
 
 ###
-<p align="left">Meu nome é Filipe Batista Sou um Desenvolvedor de Software e vivo no Rio Grande do Sul, Brazil.</p>
+<p align="left">Meu nome é Filipe Batista Sou um Desenvolvedor de Software e vivo no Rio Grande do Sul, Brasil.</p>
 
 ## Sobre mim
 
-Sou um desenvolvedor Fullstack com 4 anos de experiência em desenvolvimento web. Tenho conhecimentos sólidos em diversas tecnologias, incluindo:
+Sou um desenvolvedor Fullstack com 4 anos de experiência em desenvolvimento web. 
+Tenho conhecimentos sólidos em diversas tecnologias, incluindo ReactJS, React Native, 
+NodeJS, TypeScript, Firebase, YUP, Formik e Material UI. 
+
+Já trabalhei na Stefanini Group, onde desenvolvi e mantive aplicações em ReactJS e React-Native, além de realizar a
+manutenção de Backend em C#, NodeJS e Python. Também atuei na Moben Software, onde desenvolvi e mantive aplicações 
+em ReactJS com Firebase e integrações do sistema de pagamento da Pagar-me. 
+
+Tenho conhecimentos sólidos em diversas tecnologias, incluindo:
 
 ###
 <div align="left">
