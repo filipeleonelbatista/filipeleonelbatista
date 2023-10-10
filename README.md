@@ -48,6 +48,21 @@ Tenho conhecimentos sólidos em diversas tecnologias, incluindo:
 
 Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês intermediário e experiência com ferramentas de gestão de projetos como Trello, Jira, GitHub e Bitbucket.
 
+## Números do Github 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeleonelbatista&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Principais projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=if-awards&theme=dark)](https://github.com/filipe/if-awards)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=simple-blog&theme=dark)](https://github.com/filipe/simple-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=youtube-floating&theme=dark)](https://github.com/filipe/youtube-floating)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=bussleep&theme=dark)](https://github.com/filipe/bussleep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=goodplate-ia&theme=dark)](https://github.com/filipe/goodplate-ia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=dev-finances&theme=dark)](https://github.com/filipe/dev-finances)
+
 ## Ultimas Experiência profissionais [Baixe o CV](https://filipeleonelbatista.vercel.app/FilipeBatistaCV.pdf)
 
 ### Analista de sistemas na Stefanini Group (ago 2022 - atualmente)
