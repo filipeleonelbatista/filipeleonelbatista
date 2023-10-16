@@ -63,6 +63,8 @@ Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=goodplate-ia&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/goodplate-ia)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=dev-finances&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/dev-finances)
 
+----
+
 ## Ultimas Experiência profissionais [Baixe o CV](https://filipeleonelbatista.vercel.app/FilipeBatistaCV.pdf)
 
 ### Analista de sistemas na Stefanini Group (ago 2022 - atualmente)
