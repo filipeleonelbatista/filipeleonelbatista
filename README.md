@@ -56,12 +56,12 @@ Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês 
 
 ## Principais projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=if-awards&theme=dark)](https://github.com/filipe/if-awards)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=simple-blog&theme=dark)](https://github.com/filipe/simple-blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=youtube-floating&theme=dark)](https://github.com/filipe/youtube-floating)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=bussleep&theme=dark)](https://github.com/filipe/bussleep)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=goodplate-ia&theme=dark)](https://github.com/filipe/goodplate-ia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=dev-finances&theme=dark)](https://github.com/filipe/dev-finances)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=if-awards&theme=dark)](https://github.com/filipeleonelbatista/if-awards)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=simple-blog&theme=dark)](https://github.com/filipeleonelbatista/simple-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=youtube-floating&theme=dark)](https://github.com/filipeleonelbatista/youtube-floating)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=bussleep&theme=dark)](https://github.com/filipeleonelbatista/bussleep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=goodplate-ia&theme=dark)](https://github.com/filipeleonelbatista/goodplate-ia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=dev-finances&theme=dark)](https://github.com/filipeleonelbatista/dev-finances)
 
 ## Ultimas Experiência profissionais [Baixe o CV](https://filipeleonelbatista.vercel.app/FilipeBatistaCV.pdf)
 
