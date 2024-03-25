@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor Fullstack com 4 anos de experiência em desenvolvimento web. 
+Sou um desenvolvedor Fullstack com mais de 5 anos de experiência em desenvolvimento web. 
 Tenho conhecimentos sólidos em diversas tecnologias, incluindo ReactJS, React Native, 
 NodeJS, TypeScript, Firebase, YUP, Formik e Material UI. 
 
@@ -41,7 +41,7 @@ Tenho conhecimentos sólidos em diversas tecnologias, incluindo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" width="47" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="35" width="47" alt="storybook logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" width="47" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" width="47" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" width="47" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -56,12 +56,11 @@ Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês 
 
 ## Principais projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=if-awards&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/if-awards)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=simple-blog&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/simple-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=ifpads&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/ifpads)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=finances-web&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/finances-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=whatsapp-sender&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/whatsapp-sender)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=delivery-generic&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/delivery-generic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=youtube-floating&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/youtube-floating)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=bussleep&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/bussleep)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=goodplate-ia&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/goodplate-ia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=dev-finances&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/dev-finances)
 
 ----
 
