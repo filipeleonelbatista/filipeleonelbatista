@@ -1,4 +1,7 @@
-[🇺🇸 Version](https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/README_EN.md)
+<a href="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/README_EN.md" target="_blank">
+  <img src="https://raw.githubusercontent.com/filipeleonelbatista/filipeleonelbatista/master/assets/usa_flag.png" width="28px" />
+  Version in English
+</a>
 
 <h1 align="left">Olá 👋, Como vai?</h1>
 
