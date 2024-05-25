@@ -1,3 +1,5 @@
+[🇺🇸 Version](https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/README_EN.md)
+
 <h1 align="left">Olá 👋, Como vai?</h1>
 
 ###
