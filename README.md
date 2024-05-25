@@ -69,7 +69,7 @@ Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês 
 
 ### Analista de sistemas na Stefanini Group (ago 2022 - atualmente)
 
-- Desenvolvimento e manutenção de aplicações em ReactJS com Typescript, Material UI, Ionic Framework, YUP, Formik.
+- Desenvolvimento e manutenção de aplicações em ReactJS com Typescript, Material UI, YUP, Formik.
 - Desenvolvimento e manutenção de aplicações em React-Native com Typescript para aplicações IOS e Android.
 - Manutenção de Backend em C#, NodeJS e Python com Flask e com SQL Server no banco de dados.
 - Desenvolvimento de documentação nas ferramentas Jira, Swagger.
@@ -83,7 +83,7 @@ Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês 
 ## Contatos
 
 <p align="center">
-  <a href="https://filipeleonelbatista.vercel.app/links">
+  <a href="https://filipeleonelbatista.dev.br/links">
     <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
   </a>&ensp;
   <a href="https://www.linkedin.com/in/filipeleonelbatista/">
@@ -92,7 +92,7 @@ Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês 
   <a href="https://instagram.com/filipeleonelbatista">
     <img alt="Instagram" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/044-instagram.svg" />
   </a>&ensp;
-  <a href="https://filipeleonelbatista.vercel.app/">
+  <a href="https://filipeleonelbatista.dev.br/">
     <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
   </a>
 </p>
