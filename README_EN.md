@@ -57,7 +57,7 @@ Additionally, I am a pianist, guitarist, and technology enthusiast. I have inter
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=finances-app&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/finances-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=whatsapp-sender&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/whatsapp-sender)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=delivery-generic&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/delivery-generic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=youtube-floating&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/youtube-floating)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=cadastrapet_oficial&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/cadastrapet_oficial)
 
 ----
 
