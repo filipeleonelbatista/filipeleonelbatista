@@ -52,7 +52,7 @@ Additionally, I am a pianist, guitarist, and technology enthusiast. I have inter
 
 ## Main Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=ifpads&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/ifpads)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=chat-anywhere&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/chat-anywhere)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=finances-web&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/finances-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=finances-app&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/finances-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=whatsapp-sender&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/whatsapp-sender)
@@ -63,7 +63,15 @@ Additionally, I am a pianist, guitarist, and technology enthusiast. I have inter
 
 ## Recent Professional Experience [Download CV](https://filipeleonelbatista.dev.br/FilipeBatistaCVen.pdf)
 
-### Systems Analyst at Stefanini Group (Aug 2022 - Present)
+### Frontend React Developer at Recrutei (Aug 2024 until now)
+
+- Development and maintenance of applications in ReactJS, Storybook, Styled Components.
+- Development and maintenance of applications in VueJS.
+- Development and maintenance of Backend in Python, Laravel PHP
+- Maintence of Databases with MongoDB, MySql, ElasticSearch, Redis.
+- Documentation development in Clickup, Bitbucket, Figma.
+
+### Systems Analyst at Stefanini Group (Aug 2022 - Aug 2024)
 
 - Development and maintenance of applications in ReactJS with TypeScript, Material UI, YUP, Formik.
 - Development and maintenance of applications in React Native with TypeScript for iOS and Android applications.
