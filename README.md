@@ -61,7 +61,7 @@ Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês 
 
 ## Principais projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=ifpads&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/ifpads)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=chat-anywhere&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/chat-anywhere)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=finances-web&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/finances-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=finances-app&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/finances-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=whatsapp-sender&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/whatsapp-sender)
@@ -72,7 +72,15 @@ Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês 
 
 ## Ultimas Experiência profissionais [Baixe o CV](https://filipeleonelbatista.vercel.app/FilipeBatistaCV.pdf)
 
-### Analista de sistemas na Stefanini Group (ago 2022 - atualmente)
+### Desenvolvedor Frontend na Recrutei (ago 2024 até agora)
+
+- Desenvolvimento e manutenção de aplicações em ReactJS, Storybook, Styled Components.
+- Desenvolvimento e manutenção de aplicações em VueJS.
+- Desenvolvimento e manutenção de Backend em Python, Laravel PHP
+- Manutenção de Bancos de Dados com MongoDB, MySql, ElasticSearch, Redis.
+- Desenvolvimento de documentação em Clickup, Bitbucket, Figma.
+
+### Analista de sistemas na Stefanini Group (ago 2022 - ago 2024)
 
 - Desenvolvimento e manutenção de aplicações em ReactJS com Typescript, Material UI, YUP, Formik.
 - Desenvolvimento e manutenção de aplicações em React-Native com Typescript para aplicações IOS e Android.
