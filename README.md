@@ -95,10 +95,4 @@
   <a href="https://www.linkedin.com/in/filipeleonelbatista/">
     <img alt="LinkedIn" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/052-linkedin.svg" />
   </a>&ensp;
-  <a href="https://instagram.com/filipeleonelbatista">
-    <img alt="Instagram" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/044-instagram.svg" />
-  </a>&ensp;
-  <a href="https://filipeleonelbatista.dev.br/">
-    <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
-  </a>
 </p>
