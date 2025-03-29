@@ -3,42 +3,37 @@
   Version in English
 </a>
 
-<h1 align="left">Olá 👋, Como vai?</h1>
+<h1 align="left">Olá 👋, Tudo bem?</h1>
 
-###
-<p align="left">Meu nome é Filipe Batista Sou um Desenvolvedor de Software e vivo no Rio Grande do Sul, Brasil.</p>
+<p align="left">
+  Meu nome é Filipe de Leonel Batista. Sou Desenvolvedor Full Stack com mais de 5 anos de experiência em criação de aplicações robustas e escaláveis. Atualmente, atuo na área de Frontend com ReactJS/React Native e também desenvolvo soluções Backend utilizando NodeJS, Python e outras tecnologias.
+</p>
 
-## Sobre mim
+## Sobre Mim
 
-Sou um desenvolvedor Fullstack com mais de 5 anos de experiência em desenvolvimento web. 
-Tenho conhecimentos sólidos em diversas tecnologias, incluindo ReactJS, React Native, 
-NodeJS, TypeScript, Firebase, YUP, Formik e Material UI. 
+- **Experiência:** Já atuei em projetos de grande escala para empresas como Recrutei, Stefanini Group, Moben, Interprocess e Salux. Meu trabalho envolve desde a criação e manutenção de interfaces responsivas com ReactJS, React Native, VueJS e bibliotecas como Material UI, Storybook, Styled Components e Tailwind CSS, até integrações complexas com backend em NodeJS, Python, C# e SQL Server.
+- **Habilidades Técnicas:** Além de expertise em linguagens e frameworks modernos (TypeScript, Redux, Formik, YUP, entre outros), possuo sólida experiência com bancos de dados (Oracle, MySQL, PostgreSQL, SQL Server) e ferramentas de versionamento e gestão (Git, Jira, ClickUp, Figma).
+- **Idiomas:** Inglês avançado (C1) e português nativo.
 
-Já trabalhei na Stefanini Group, onde desenvolvi e mantive aplicações em ReactJS e React-Native, além de realizar a
-manutenção de Backend em C#, NodeJS e Python. Também atuei na Moben Software, onde desenvolvi e mantive aplicações 
-em ReactJS com Firebase e integrações do sistema de pagamento da Pagar-me. 
 
-Tenho conhecimentos sólidos em diversas tecnologias, incluindo:
-
-###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo" opacity="0.6"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react native logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="47" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="47" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" width="47" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="35" width="47" alt="materialui logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="35" width="47" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" width="47" alt="OracleSQL logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" width="47" alt="Sqlite logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="47" alt="MySql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" width="47" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" width="47" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="47" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" width="47" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="47" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="47" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="47" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="47" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" width="47" alt="flask logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="35" width="47" alt="ruby logo"  />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="35" width="47" alt="ruby logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" width="47" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" width="47" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" width="47" alt="sass logo"  />
@@ -49,51 +44,49 @@ Tenho conhecimentos sólidos em diversas tecnologias, incluindo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" width="47" alt="tailwindcss logo"  />
 </div>
 
-###
+---
 
-Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês intermediário e experiência com ferramentas de gestão de projetos como Trello, Jira, GitHub e Bitbucket.
+## Experiência Profissional
 
-## Números do Github 
+### Desenvolvedor Frontend React na Recrutei  
+**Ago 2024 – Dez 2024**  
+- Desenvolvimento e manutenção de aplicações utilizando ReactJS, VueJS, Storybook, Styled Components e Tailwind CSS.  
+- Colaboração no design system e na documentação de processos via ClickUp, Bitbucket e Figma.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeleonelbatista&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Desenvolvedor Frontend React Native / React na Stefanini Group  
+**Set 2022 – Jul 2024**  
+- **React Native:** Desenvolvimento e manutenção de aplicativo para clube de benefícios, com integrações em C#, SQL Server, utilizando Typescript, Redux, YUP, Formik e Native Base.  
+- **ReactJS:** Criação e manutenção de interfaces para sistemas integrados a soluções SAP e Totvs, com ênfase em performance e usabilidade.
 
+### Desenvolvedor Web Fullstack na Moben  
+**Jul 2021 – Set 2022**  
+- Desenvolvimento de aplicações em ReactJS com Firebase, integrando com backend em NodeJS, ExpressJS e TypeScript.  
+- Implementação de integrações com sistemas de pagamento (Pagar-me) e automação de processos via Cron Jobs.
 
-## Principais projetos
+<!-- Você pode adicionar mais experiências, se desejar, conforme seu currículo completo -->
+
+[Baixe meu CV completo](https://github.com/filipeleonelbatista/filipeleonelbatista/cv-pt-br.pdf)
+
+---
+
+## Principais Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=chat-anywhere&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/chat-anywhere)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=finances-web&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/finances-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=finances-app&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/finances-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=whatsapp-sender&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/whatsapp-sender)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=delivery-generic&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/delivery-generic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=cadastrapet_oficial&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/cadastrapet_oficial)
 
-----
+---
 
-## Ultimas Experiência profissionais [Baixe o CV](https://filipeleonelbatista.vercel.app/FilipeBatistaCV.pdf)
+## Educação
 
-### Desenvolvedor Frontend na Recrutei (ago 2024 até agora)
+- **Bacharelado em Ciência Aplicada – Desenvolvimento de Software**  
+  BYU Idaho, Jul 2024 – Jul 2027
 
-- Desenvolvimento e manutenção de aplicações em ReactJS, Storybook, Styled Components.
-- Desenvolvimento e manutenção de aplicações em VueJS.
-- Desenvolvimento e manutenção de Backend em Python, Laravel PHP
-- Manutenção de Bancos de Dados com MongoDB, MySql, ElasticSearch, Redis.
-- Desenvolvimento de documentação em Clickup, Bitbucket, Figma.
+- **Ciência da Computação**  
+  Universidade Luterana do Brasil (Ulbra Gravataí), Jan 2010 – Jan 2022
 
-### Analista de sistemas na Stefanini Group (ago 2022 - ago 2024)
-
-- Desenvolvimento e manutenção de aplicações em ReactJS com Typescript, Material UI, YUP, Formik.
-- Desenvolvimento e manutenção de aplicações em React-Native com Typescript para aplicações IOS e Android.
-- Manutenção de Backend em C#, NodeJS e Python com Flask e com SQL Server no banco de dados.
-- Desenvolvimento de documentação nas ferramentas Jira, Swagger.
-
-### Desenvolvedor Web Fullstack na Moben Software (jul 2021 – jul 2022)
-
-- Desenvolvimento e manutenção de aplicações em ReactJS com Firebase
-- Desenvolvimento e manutenção de Backend Node JS, Express JS, Cron Jobs, email templates e Firebase com TypeScript
-- Desenvolvimento e manutenção de integrações do Sistemas de pagamento da Pagar-me
-
-## Contatos
+---
 
 <p align="center">
   <a href="https://filipeleonelbatista.dev.br/links">
@@ -109,5 +102,3 @@ Além disso, sou pianista, violonista e entusiasta de tecnologia. Tenho inglês 
     <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
   </a>
 </p>
-
-
