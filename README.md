@@ -65,7 +65,7 @@
 
 <!-- Você pode adicionar mais experiências, se desejar, conforme seu currículo completo -->
 
-[Baixe meu CV completo](https://github.com/filipeleonelbatista/filipeleonelbatista/cv-pt-br.pdf)
+[Baixe meu CV completo](https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/cv-pt-br.pdf)
 
 ---
 
