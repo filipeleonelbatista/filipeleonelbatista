@@ -3,17 +3,17 @@
   Version in Brasilian Portuguese
 </a>
 
-# Hello 👋, How are you?
+<h1 align="left">Hello 👋, How are you?</h1>
 
-<p align="left">My name is Filipe Batista. I am a Software Developer living in Rio Grande do Sul, Brazil.</p>
+<p align="left">
+  My name is Filipe de Leonel Batista. I am a Full Stack Developer with over 5 years of experience in creating robust and scalable applications. Currently, I work in the Frontend area with ReactJS/React Native and also develop Backend solutions using NodeJS, Python, and other technologies.
+</p>
 
 ## About Me
 
-I am a Fullstack Developer with over 5 years of experience in web development. I have solid knowledge in various technologies, including ReactJS, React Native, NodeJS, TypeScript, Firebase, YUP, Formik, and Material UI.
-
-I have worked at Stefanini Group, where I developed and maintained applications in ReactJS and React Native, as well as backend maintenance in C#, NodeJS, and Python. I also worked at Moben Software, where I developed and maintained applications in ReactJS with Firebase and Pagar-me payment system integrations.
-
-I have solid knowledge in various technologies, including:
+- **Experience:** I have worked on large-scale projects for companies such as Recrutei, Stefanini Group, Moben, Interprocess, and Salux. My work involves everything from creating and maintaining responsive interfaces with ReactJS, React Native, VueJS and libraries like Material UI, Storybook, Styled Components, and Tailwind CSS, to complex integrations with backend in NodeJS, Python, C#, and SQL Server.
+- **Technical Skills:** In addition to expertise in modern languages and frameworks (TypeScript, Redux, Formik, YUP, among others), I have solid experience with databases (Oracle, MySQL, PostgreSQL, SQL Server) and version control and management tools (Git, Jira, ClickUp, Figma).
+- **Languages:** Advanced English (C1) and native Portuguese.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo" />
@@ -43,48 +43,47 @@ I have solid knowledge in various technologies, including:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" width="47" alt="tailwindcss logo" />
 </div>
 
-Additionally, I am a pianist, guitarist, and technology enthusiast. I have intermediate English skills and experience with project management tools such as Trello, Jira, GitHub, and Bitbucket.
+---
 
-## GitHub Stats
+## Professional Experience
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeleonelbatista&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Frontend React Developer at Recrutei  
+**Aug 2024 – Dec 2024**  
+- Developed and maintained applications using ReactJS, VueJS, Storybook, Styled Components, and Tailwind CSS.  
+- Collaborated on the design system and process documentation via ClickUp, Bitbucket, and Figma.
+
+### Frontend React Native / React Developer at Stefanini Group  
+**Sep 2022 – Jul 2024**  
+- **React Native:** Developed and maintained an application for a benefits club, with integrations in C#, SQL Server, using Typescript, Redux, YUP, Formik, and Native Base.  
+- **ReactJS:** Created and maintained interfaces for systems integrated with SAP and Totvs solutions, with an emphasis on performance and usability.
+
+### Fullstack Web Developer at Moben  
+**Jul 2021 – Sep 2022**  
+- Developed applications in ReactJS with Firebase, integrating with a backend in NodeJS, ExpressJS, and TypeScript.  
+- Implemented integrations with payment systems (Pagar-me) and process automation via Cron Jobs.
+
+---
+
+[Download my complete CV](https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/cv-pt-br.pdf)
 
 ## Main Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=chat-anywhere&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/chat-anywhere)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=finances-web&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/finances-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=finances-app&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/finances-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=whatsapp-sender&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/whatsapp-sender)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=delivery-generic&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/delivery-generic)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipeleonelbatista&repo=cadastrapet_oficial&hide_border=true&theme=dark)](https://github.com/filipeleonelbatista/cadastrapet_oficial)
 
-----
+---
 
-## Recent Professional Experience [Download CV](https://filipeleonelbatista.dev.br/FilipeBatistaCVen.pdf)
+## Education
 
-### Frontend React Developer at Recrutei (Aug 2024 until now)
+- **Bachelor of Applied Science – Software Development**  
+  BYU Idaho, Jul 2024 – Jul 2027
 
-- Development and maintenance of applications in ReactJS, Storybook, Styled Components.
-- Development and maintenance of applications in VueJS.
-- Development and maintenance of Backend in Python, Laravel PHP
-- Maintence of Databases with MongoDB, MySql, ElasticSearch, Redis.
-- Documentation development in Clickup, Bitbucket, Figma.
+- **Computer Science**  
+  Universidade Luterana do Brasil (Ulbra Gravataí), Jan 2010 – Jan 2022 (6 out of 8 semesters completed)
 
-### Systems Analyst at Stefanini Group (Aug 2022 - Aug 2024)
-
-- Development and maintenance of applications in ReactJS with TypeScript, Material UI, YUP, Formik.
-- Development and maintenance of applications in React Native with TypeScript for iOS and Android applications.
-- Backend maintenance in C#, NodeJS, and Python with Flask and SQL Server databases.
-- Documentation development using Jira and Swagger.
-
-### Fullstack Web Developer at Moben Software (Jul 2021 – Jul 2022)
-
-- Development and maintenance of applications in ReactJS with Firebase.
-- Development and maintenance of Backend NodeJS, ExpressJS, Cron Jobs, email templates, and Firebase with TypeScript.
-- Development and maintenance of Pagar-me payment system integrations.
-
-## Contact
+---
 
 <p align="center">
   <a href="https://filipeleonelbatista.dev.br/links">
@@ -93,10 +92,4 @@ Additionally, I am a pianist, guitarist, and technology enthusiast. I have inter
   <a href="https://www.linkedin.com/in/filipeleonelbatista/">
     <img alt="LinkedIn" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/052-linkedin.svg" />
   </a>&ensp;
-  <a href="https://instagram.com/filipeleonelbatista">
-    <img alt="Instagram" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/044-instagram.svg" />
-  </a>&ensp;
-  <a href="https://filipeleonelbatista.dev.br/">
-    <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
-  </a>
 </p>
