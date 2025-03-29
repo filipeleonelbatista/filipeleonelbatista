@@ -84,7 +84,7 @@
   BYU Idaho, Jul 2024 – Jul 2027
 
 - **Ciência da Computação**  
-  Universidade Luterana do Brasil (Ulbra Gravataí), Jan 2010 – Jan 2022
+  Universidade Luterana do Brasil (Ulbra Gravataí), Jan 2010 – Jan 2022 (6//8 semestres concluidos)
 
 ---
 
