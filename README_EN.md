@@ -1,4 +1,4 @@
-[🇧🇷 Ver em Português](./readme.md)
+[🇧🇷 Ver em Português](./README.md)
 
 <h1 align="left">👋 Hi, I'm Filipe de Leonel Batista</h1>
 
