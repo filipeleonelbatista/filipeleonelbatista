@@ -1,3 +1,5 @@
+[🇺🇸 See in English](./readme_en.md)
+
 <h1 align="left">👋 Olá, eu sou Filipe de Leonel Batista</h1>
 
 <p align="left">
@@ -102,5 +104,5 @@ aplicações dinâmicas
 <p align="center">
   <a href="https://filipeleonelbatista.github.io">🔗 Meu site de links</a> &ensp;|&ensp;
   <a href="https://www.linkedin.com/in/filipeleonelbatista/"><img src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/052-linkedin.svg" width="22px" alt="LinkedIn" /></a> &ensp;|&ensp;
-  <a href="mailto:filipe.x2016@gmail.com"><img src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/mail.svg" width="22px" alt="Email" /></a>
+  <a href="mailto:filipe.x2016@gmail.com?subject=Ol%C3%A1%20Filipe%2C%20gostaria%20de%20conversar%20sobre%20um%20projeto&body=Ol%C3%A1%20Filipe%2C%0A%0AGostaria%20de%20conversar%20sobre%20um%20projeto.%20Podemos%20agendar%20uma%20reuni%C3%A3o%3F%0A%0AAtenciosamente%2C%0A"><img src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/mail.svg" width="22px" alt="Email" /></a>
 </p>
